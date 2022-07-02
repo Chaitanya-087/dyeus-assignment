@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dyeus-assignment/static/css/main.6e4a0923.css",
-    "main.js": "/dyeus-assignment/static/js/main.624b96b6.js",
+    "main.css": "/dyeus-assignment/static/css/main.9e56a8b4.css",
+    "main.js": "/dyeus-assignment/static/js/main.6c9ed104.js",
     "static/media/bg-karolina-grabowska.png": "/dyeus-assignment/static/media/bg-karolina-grabowska.60472f5eb000266772cd.png",
     "static/media/calendarbg.png": "/dyeus-assignment/static/media/calendarbg.610375bc35f14e74aefb.png",
     "static/media/consultdoc.png": "/dyeus-assignment/static/media/consultdoc.a8e0e2920c6d64d2ac6d.png",
@@ -11,11 +11,11 @@
     "static/media/pic-4.png": "/dyeus-assignment/static/media/pic-4.65f76edffa0cdfca329c.png",
     "static/media/pic-1.png": "/dyeus-assignment/static/media/pic-1.fea8fced7f61d14e4883.png",
     "index.html": "/dyeus-assignment/index.html",
-    "main.6e4a0923.css.map": "/dyeus-assignment/static/css/main.6e4a0923.css.map",
-    "main.624b96b6.js.map": "/dyeus-assignment/static/js/main.624b96b6.js.map"
+    "main.9e56a8b4.css.map": "/dyeus-assignment/static/css/main.9e56a8b4.css.map",
+    "main.6c9ed104.js.map": "/dyeus-assignment/static/js/main.6c9ed104.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e4a0923.css",
-    "static/js/main.624b96b6.js"
+    "static/css/main.9e56a8b4.css",
+    "static/js/main.6c9ed104.js"
   ]
 }
