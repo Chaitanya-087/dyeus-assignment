@@ -1,0 +1,23 @@
+.product{
+    background:#DCE9E9;
+}
+
+.custom-styles--product{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 3rem 0;
+}
+.karolina-img{
+    width: 100%;
+}
+.btn-upgrade{
+    border: none;
+    outline: none;
+    background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
+    filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+    border-radius: 50px;
+    padding: 1rem 2rem;
+    font-size:16px;
+    color: #fff;
+}

@@ -1,0 +1,30 @@
+.createbox{
+    background: #F66E6E;
+    color: #fff;
+}
+
+.custom-style--createbox{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 3rem 0;
+}
+.prod-img{
+    width: 100%;
+}
+
+.btn-create{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    border: none;
+    outline: none;
+    padding: 1rem 2rem;
+    background-color: #000;
+    border-radius: 50px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+    white-space: nowrap;
+}

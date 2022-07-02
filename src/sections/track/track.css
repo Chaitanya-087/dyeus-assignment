@@ -1,0 +1,24 @@
+.track{
+    background: linear-gradient(180deg, #F3B8BC 2%, #FFDAD4 50%);
+}
+
+.custom-style--track{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 3rem 0;
+}
+.cal-img{
+    width: 100%;
+}
+.btn-period{
+    border: none;
+    outline: none;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
+    filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+}

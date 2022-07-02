@@ -1,0 +1,17 @@
+.difference{
+    background: linear-gradient(165.41deg, #D99EC9 0%, rgba(246, 240, 196,0) 100%);
+}
+
+.custom-styles--difference{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding: 3rem 0;
+}
+.wedo--list{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 20px;
+    font-size: 14px;
+}
