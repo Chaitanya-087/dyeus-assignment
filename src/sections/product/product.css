@@ -1,5 +1,9 @@
 .product{
-    background:#DCE9E9;
+    background:#DCE9E9 url(../../images/bg-karolina-grabowska.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 120vh;
 }
 
 .custom-styles--product{

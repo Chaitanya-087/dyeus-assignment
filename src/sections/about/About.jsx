@@ -5,7 +5,7 @@ import Spark from '../../images/sparkle.png'
 import Phone from '../../images/phone.png'
 const About = () => {
   return (
-    <section className='about'>
+    <section id='about' className='about'>
         <div className='container-mb custom-styles--about'>
             <div className='abt-row-1'>
                 <h1 className='about--title text-center'>
@@ -15,7 +15,7 @@ const About = () => {
                 <p className='about--desc'>Daina empowers you to understand how your body works so you can look and feel your best</p>
             </div>
             <hr />
-            <div className='abt-row-2'>
+            <div id='mission' className='abt-row-2'>
                 <div className='details'>
                     <p style={{fontWeight:'bold' ,marginBottom:'20px'}} className='text-center'>Our philosophy</p>
                     <h1 style={{marginBottom:'20px'}} className='text-center'>Sustainable wellness is a big-picture inside out approach</h1>

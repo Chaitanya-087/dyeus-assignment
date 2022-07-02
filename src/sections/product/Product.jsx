@@ -1,9 +1,8 @@
 import React from 'react'
 import './product.css'
-import Karolina from '../../images/bg-karolina-grabowska.png'
 const Product = () => {
   return (
-    <section className='product'>
+    <section id='science' className='product'>
       <div className='container-mb custom-styles--product'>
         <h3 style={{ fontWeight: 'bold' }}>Liberate your everyday wellness</h3>
         <h1 style={{ fontSize: '30px' }}>Shop our self-care products</h1>
@@ -13,7 +12,6 @@ const Product = () => {
         </button>
         <span className='text-center' style={{ color: '#000', fontWeight: '600' }}>#NoNasties, we promise</span>
       </div>
-      <img className='karolina-img' src={Karolina} alt="" />
     </section>
   )
 }

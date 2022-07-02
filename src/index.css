@@ -8,6 +8,7 @@
 }
 html{
   scroll-behavior: smooth;
+  scroll-padding: 50px;
 }
 :root{
   --clr-primary:#1B1B50;

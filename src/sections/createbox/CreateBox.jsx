@@ -5,7 +5,7 @@ import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight';
 
 const CreateBox = () => {
   return (
-    <section className='createbox'>
+    <section id='product' className='createbox'>
       <div className='container-mb custom-style--createbox'>
         <h1>Get your personal period box</h1>
         <img className='prod-img' src={Product} alt="" />
