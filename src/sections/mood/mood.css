@@ -27,3 +27,8 @@
     place-content: center;
     margin-bottom: 20px;
 }
+
+.img-grid > img {
+    width: 120px;
+    object-fit: cover;
+}

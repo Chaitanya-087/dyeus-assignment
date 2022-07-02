@@ -1,6 +1,7 @@
 .consult{
     background: linear-gradient(270deg, #DADAE4 0.25%, #EEEEF0 24.33%, #F8F8F8 52.08%, #FEFEFE 100%);
 }
+
 .custom-style--consult{
     display: flex;
     flex-direction: column;

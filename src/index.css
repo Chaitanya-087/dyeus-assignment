@@ -14,6 +14,7 @@ html{
 }
 body {
   min-height: 100vh;
+  width: 100%;
   color: var(--clr-primary);
 }
 p{
@@ -31,4 +32,8 @@ p{
 .flex-column{
   display: flex;
   flex-direction: column;
+}
+button{
+  white-space: nowrap;
+  font-size: 14px;
 }
