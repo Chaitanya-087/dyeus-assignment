@@ -3,13 +3,6 @@
     color: #fff;
 }
 
-.custom-style--footer{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    padding: 3rem 0;
-}
-
 .social-media{
     display: flex;
     align-items: center;

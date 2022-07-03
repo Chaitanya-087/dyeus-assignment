@@ -8,7 +8,7 @@ import MailOutlineIcon from '@mui/icons-material/MailOutline';
 const Footer = () => {
   return (
     <div className='footer'>
-      <div className="container-mb custom-style--footer">
+      <div className="container-mb flex-column">
         <div className='social-media'>
           <img src={Fb} alt="" />
           <img src={Tweet} alt="" />

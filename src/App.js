@@ -1,8 +1,7 @@
-import './App.css';
 import About from './sections/about/About';
 import Navbar from './components/Navbar';
 import Difference from './sections/difference/Difference';
-import Product from './sections/product/Product';
+import Science from './sections/science/Science';
 import Mood from './sections/mood/Mood';
 import Track from './sections/track/Track';
 import Consult from './sections/consult/Consult';
@@ -16,7 +15,7 @@ function App() {
       <main>
         <About />
         <Difference />
-        <Product />
+        <Science />
         <Mood />
         <Track />
         <Consult />

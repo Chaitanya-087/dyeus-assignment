@@ -6,7 +6,7 @@ import Phone from '../../images/phone.png'
 const About = () => {
   return (
     <section id='about' className='about'>
-        <div className='container-mb custom-styles--about'>
+        <div className='container-mb flex-column'>
             <div className='abt-row-1'>
                 <h1 className='about--title text-center'>
                     About Diana
@@ -16,10 +16,10 @@ const About = () => {
             </div>
             <hr />
             <div id='mission' className='abt-row-2'>
-                <div className='details'>
-                    <p style={{fontWeight:'bold' ,marginBottom:'20px'}} className='text-center'>Our philosophy</p>
-                    <h1 style={{marginBottom:'20px'}} className='text-center'>Sustainable wellness is a big-picture inside out approach</h1>
-                    <p style={{lineHeight:'1.5',fontWeight:'bold'}} className='text-center'>Diana is on a mission to create thoughtful, science-backed solutions for women who want to make informed decisions about their health and wellness</p>
+                <div className='flex-column'>
+                    <h3 className='text-center' style={{fontWeight:'bold'}}>Our philosophy</h3>
+                    <h1 className='text-center'>Sustainable wellness is a big-picture inside out approach</h1>
+                    <p className='text-center'>Diana is on a mission to create thoughtful, science-backed solutions for women who want to make informed decisions about their health and wellness</p>
                 </div>
                 <p style={{fontWeight:'bold'}} className='text-center'>That's why we've created an integrated ecosystem of:</p>
                 <div className='about--eco'>

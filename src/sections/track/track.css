@@ -2,15 +2,10 @@
     background: linear-gradient(180deg, #F3B8BC 2%, #FFDAD4 50%);
 }
 
-.custom-style--track{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    padding: 3rem 0;
-}
 .cal-img{
     width: 100%;
 }
+
 .btn-period{
     border: none;
     outline: none;

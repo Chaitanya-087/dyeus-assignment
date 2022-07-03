@@ -4,7 +4,7 @@ import './difference.css'
 const Difference = () => {
   return (
     <section className='difference'>
-      <div className='container-mb custom-styles--difference'>
+      <div className='container-mb flex-column'>
         <h2 style={{fontWeight:'bold'}}>
             What makes us different?
         </h2>
@@ -26,4 +26,3 @@ const Difference = () => {
 }
 
 export default Difference
-
